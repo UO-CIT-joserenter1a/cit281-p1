@@ -1,4 +1,4 @@
-# CIT281-Lab 1
+# CIT281-Project 1
 ## Jose Renteria
 ## Spring 2023
 
